@@ -4,7 +4,7 @@ Talk2Image is an interactive application that allows users to chat with images u
 
 ![Talk2Image Screenshot](./talk2Image_screenshot.png)
 
-Visit the live app: [Talk2Image](https://talk2csv.onrender.com/)
+Visit the live app: [Talk2Image](https://talk2image.onrender.com)
 
 ## Features
 
